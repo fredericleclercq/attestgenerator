@@ -135,7 +135,7 @@ if (!empty($_POST)) {
                 <div class="alert alert-info text-justify">
                     Durant la période de confinement due au COVID-19, ce générateur a été créé dans le but de faciliter la rédaction et
                     l'impression de l'attestation quotidienne pour vos déplacements en respectant <a href="https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-derogatoire-et-justificatif-de-deplacement-professionnel" target="_blank">les consignes du gouvernement</a><br>
-                    <em>Ce site ne contient AUCUN cookie, et aucune information n'est enregistrée ou stockée sur le serveur. L'image de votre signature est détruite après génération du fichier PDF</em>
+                    <em>Ce site ne contient AUCUN cookie, et aucune information n'est enregistrée ou stockée sur le serveur. L'image de votre signature est détruite après génération du fichier PDF. (code source consultable sur <a href="https://github.com/fredericleclercq/attestgenerator">Github</a>)</em>
                 </div>
             </div>
         </div>
